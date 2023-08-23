@@ -26,7 +26,7 @@ body {
 .wrap .item {
   width: 300px;
   padding: 30px;
-  background: #fff;
+  background: hotpink;
   margin: 50px;
   border-radius: 10px;
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.1);
